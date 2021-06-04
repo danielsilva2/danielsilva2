@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript with angular
 - 💞️ I’m looking to collaborate on front-end projects first, but i'm looking for back-and and then, fullstack  
 - 📫 How to reach me,
-- ✉ mail: daniel.silva0740@gmail.com
+- ✉ e-mail: daniel.silva0740@gmail.com
 - 💼 linkedin: | 🐥 twitter @sagazcity | 📷 instagram: @ehodanniel
 
 <!---
