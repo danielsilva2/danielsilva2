@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on front-end projects first, but i'm looking for back-and and then, fullstack  
 - 📫 How to reach me,
 - ✉ e-mail: daniel.silva0740@gmail.com
-- 💼 linkedin: | 🐥 twitter @sagazcity | 📷 instagram: @ehodanniel
+- 💼 linkedin: <link>https://www.linkedin.com/in/daniel-snascimento/</link> | 🐥 twitter @sagazcity | 📷 instagram: @ehodanniel
 
 <!---
 danielsilva2/danielsilva2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
