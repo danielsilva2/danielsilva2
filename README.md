@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @danielsilva2
-- 👀 I’m interested in front-end web developer job's opportunities
-- 🌱 I’m currently learning javascript with angular
-- 💞️ I’m looking to collaborate on front-end projects first, but i'm looking for back-and and then, fullstack  
-- 📫 How to reach me,
-- ✉ e-mail: daniel.silva0740@gmail.com
-- 💼 linkedin: <a href="https://www.linkedin.com/in/daniel-snascimento/" target="_blank">LinkedIn</a> | 🐥 twitter @sagazcity | 📷 instagram: @ehodanniel
+👋 Hi, I’m @danielsilva2
+👀 I’m interested in front-end web developer job's opportunities (HTML, CSS, Javascript, Bootstrap and Worpress, Node.js)
+🌱 I’m currently learning Business Intelligence MBA - with R language, Python and Dashboards.
+💞️ I’m looking to collaborate on front-end projects.  
+📫 How to reach me,
+✉ <a href="mailto:daniel.silva0740@gmail.com" target="_blank">Email</a>
 
-<!---
-danielsilva2/danielsilva2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Find me
+<!-- 🚀 Site -->
+🐥 <a href="https://twitter.com/sagazcity/" target="_blank">Twitter</a>
+📸 <a href="https://www.instagram.com/ehodanniel/" target="_blank">Instagram</a>
+💼 <a href="https://www.linkedin.com/in/daniel-snascimento/" target="_blank">LinkedIn</a>
