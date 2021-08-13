@@ -6,6 +6,6 @@
 
 <!-- 🚀 Site -->
 ✉ <a href="mailto:daniel.silva0740@gmail.com" target="_blank">Email</a> <br>
-🐥 <a href="https://twitter.com/sagazcity/" target="_blank">Twitter</a> <br>
-📸 <a href="https://www.instagram.com/ehodanniel/" target="_blank">Instagram</a> <br>
-💼 <a href="https://www.linkedin.com/in/daniel-snascimento/" target="_blank">LinkedIn</a>
+🐥 <a href="https://twitter.com/sagazcity/" target="blank">Twitter</a> <br>
+📸 <a href="https://www.instagram.com/ehodanniel/" target="blank">Instagram</a> <br>
+💼 <a href="https://www.linkedin.com/in/daniel-snascimento/" target="blank">LinkedIn</a>
